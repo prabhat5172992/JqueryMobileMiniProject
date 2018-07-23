@@ -1,0 +1,37 @@
+{
+	"header": {
+		"name": "Tourist Destinations in USA"
+	},
+
+	"content": [{
+			"title": "The White House",
+			"image": "us1white_house.jpg",
+			"file": "us1white_house.txt",
+			"ohover": "The White House"
+		},
+
+		{
+			"title": "Kilauea",
+			"image": "us2kilauea.jpg",
+			"file": "us2kilauea.txt",
+			"ohover": "Kilauea"
+		},
+
+		{
+			"title": "Niagara Falls",
+			"image": "us3niagara_falls.jpg",
+			"file": "us3niagara_falls.txt",
+			"ohover": "Niagara Falls"
+
+		},
+
+		{
+			"title": "The Golden Gate Bridge",
+			"image": "us4golden_gate_bridge.jpg",
+			"file": "us4golden_gate_bridge.txt",
+			"ohover": "The Golden Gate Bridge"
+		}
+
+	]
+
+}

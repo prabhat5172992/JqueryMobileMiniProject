@@ -1,0 +1,37 @@
+{
+	"header": {
+		"name": "Tourist Destinations in UK"
+	},
+
+	"content": [{
+			"title": "Library of Birmingham",
+			"image": "uk1library.jpg",
+			"file": "uk1library.txt",
+			"ohover": "Library of Birmingham"
+		},
+
+		{
+			"title": "Tower of London",
+			"image": "uk2tower.jpg",
+			"file": "uk2tower.txt",
+			"ohover": "Tower of London"
+		},
+
+		{
+			"title": "Natural History Museum",
+			"image": "uk3museum.jpg",
+			"file": "uk3museum.txt",
+			"ohover": "Natural History Museum"
+
+		},
+
+		{
+			"title": "Tate Modern",
+			"image": "uk4modern.jpg",
+			"file": "uk4modern.txt",
+			"ohover": "Tate Modern"
+		}
+
+	]
+
+}

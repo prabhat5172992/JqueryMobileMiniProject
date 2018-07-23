@@ -1,0 +1,37 @@
+{
+	"header": {
+		"name": "Tourist Destinations in Italy"
+	},
+
+	"content": [{
+			"title": "Leaning Tower of Pisa ",
+			"image": "it1leaning_tower_of_pisa.jpg",
+			"file": "it1leaning_tower_of_pisa.txt",
+			"ohover": "Leaning Tower of Pisa"
+		},
+
+		{
+			"title": "The Colosseum",
+			"image": "it2colosseum.jpg",
+			"file": "it2colosseum.txt",
+			"ohover": "The Colosseum"
+		},
+
+		{
+			"title": "Lake Como",
+			"image": "it3lake_como.jpg",
+			"file": "it3lake_como.txt",
+			"ohover": "Lake Como"
+
+		},
+
+		{
+			"title": "Canals of Venice",
+			"image": "it4venice.jpg",
+			"file": "it4venice.txt",
+			"ohover": "Canals of Venice"
+		}
+
+	]
+
+}

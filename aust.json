@@ -1,0 +1,82 @@
+{
+	"header": {
+		"name": "Tourist Destinations in Australia"
+	},
+
+	"content": [{
+			"title": "Sydney Opera House",
+			"image": "aus1.jpg",
+			"file": "aus1.txt",
+			"ohover": "Sydeny Opera House"
+		},
+
+		{
+			"title": "Great Barrier Reef",
+			"image": "aus2.jpg",
+			"file": "aus2.txt",
+			"ohover": "Great Barrier Reef"
+		},
+
+		{
+			"title": "Uluru/Ayers Rock",
+			"image": "aus3.jpg",
+			"file": "aus3.txt",
+			"ohover": "Uluru/Ayers Rock"
+
+		},
+
+		{
+			"title": "Kakadu National Park",
+			"image": "aus4.jpg",
+			"file": "aus4.txt",
+			"ohover": "Kakadu National Park"
+		},
+
+		{
+			"title": "Whitsunday Islands",
+			"image": "aus5.jpg",
+			"file": "aus5.txt",
+			"ohover": "Whitsunday Islands"
+		},
+
+		{
+			"title": "Blue Mountains National Park",
+			"image": "aus6.jpg",
+			"file": "aus6.txt",
+			"ohover": "Blue Mountains National Park"
+		},
+
+		{
+			"title": "Purnululu National Park",
+			"image": "aus7.jpg",
+			"file": "aus7.txt",
+			"ohover": "Purnululu National Park"
+
+		},
+
+		{
+			"title": "Great Ocean Road",
+			"image": "aus8.jpg",
+			"file": "aus8.txt",
+			"ohover": "Great Ocean Road"
+			
+		},
+
+		{
+			"title": "Fraser Island",
+			"image": "aus9.jpg",
+			"file": "aus9.txt",
+			"ohover": "Fraser Island"
+			
+		},
+
+		{
+			"title": "Cable Beach, Broome",
+			"image": "aus10.jpg",
+			"file": "aus10.txt",
+			"ohover": "Cable Beach, Broome"
+		}
+
+	]
+
+}

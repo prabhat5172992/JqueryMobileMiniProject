@@ -1,0 +1,37 @@
+{
+	"header": {
+		"name": "Tourist Destinations in Mexico"
+	},
+
+	"content": [{
+			"title": "Chichen Itza ",
+			"image": "mx1chichen_itza.jpg",
+			"file": "mx1chichen_itza.txt",
+			"ohover": "Chichen Itza"
+		},
+
+		{
+			"title": "Palenque",
+			"image": "mx2palenque.jpg",
+			"file": "mx2palenque.txt",
+			"ohover": "Palenque"
+		},
+
+		{
+			"title": "Los Cabos",
+			"image": "mx3los_cabos.jpg",
+			"file": "mx3los_cabos.txt",
+			"ohover": "Los Cabos"
+
+		},
+
+		{
+			"title": "Dias des los Muertos, Oaxaca",
+			"image": "mx4dias_des_los.jpg",
+			"file": "mx4dias_des_los.txt",
+			"ohover": "Dias des los Muertos"
+		}
+
+	]
+
+}

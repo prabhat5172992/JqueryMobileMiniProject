@@ -1,0 +1,37 @@
+{
+	"header": {
+		"name": "Tourist Destinations in Brazil"
+	},
+
+	"content": [{
+			"title": "Rio de Janeiro",
+			"image": "bz1rio-de-janeiro.jpg",
+			"file": "bz1rio-de-janeiro.txt",
+			"ohover": "Rio de Janeiro"
+		},
+
+		{
+			"title": "Sao Paulo",
+			"image": "bz2sao_paulo.jpg",
+			"file": "bz2sao_paulo.txt",
+			"ohover": "Sao Paulo"
+		},
+
+		{
+			"title": "Brasilia",
+			"image": "bz3brasilia.jpg",
+			"file": "bz3brasilia.txt",
+			"ohover": "Brasilia"
+
+		},
+
+		{
+			"title": "Olinda",
+			"image": "bz4olinda.jpg",
+			"file": "bz4olinda.txt",
+			"ohover": "Olinda"
+		}
+
+	]
+
+}

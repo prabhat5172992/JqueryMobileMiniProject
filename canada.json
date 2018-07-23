@@ -1,0 +1,37 @@
+{
+	"header": {
+		"name": "Tourist Destinations in Canada"
+	},
+
+	"content": [{
+			"title": "Vancouver",
+			"image": "cd1vancouver.jpg",
+			"file": "cd1vancouver.txt",
+			"ohover": "Vancouver"
+		},
+
+		{
+			"title": "Toronto",
+			"image": "cd2toronto.jpg",
+			"file": "cd2toronto.txt",
+			"ohover": "Toronto"
+		},
+
+		{
+			"title": "Quebec City",
+			"image": "cd3quebec_city.jpg",
+			"file": "cd3quebec_city.txt",
+			"ohover": "Quebec City"
+
+		},
+
+		{
+			"title": "Ottawa",
+			"image": "cd4ottawa.jpg",
+			"file": "cd4ottawa.txt",
+			"ohover": "Ottawa"
+		}
+
+	]
+
+}

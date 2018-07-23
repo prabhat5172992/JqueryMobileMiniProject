@@ -1,0 +1,37 @@
+{
+	"header": {
+		"name": "Tourist Destinations in Switzerland"
+	},
+
+	"content": [{
+			"title": "Interlaken",
+			"image": "sw1interlaken.jpg",
+			"file": "sw1interlaken.txt",
+			"ohover": "Interlaken"
+		},
+
+		{
+			"title": "Geneva",
+			"image": "sw2geneva.jpg",
+			"file": "sw2geneva.txt",
+			"ohover": "Geneva"
+		},
+
+		{
+			"title": "Zurich",
+			"image": "sw3zurich.jpg",
+			"file": "sw3zurich.txt",
+			"ohover": "Zurich"
+
+		},
+
+		{
+			"title": "Lugano",
+			"image": "sw4lugano.jpg",
+			"file": "sw4lugano.txt",
+			"ohover": "Lugano"
+		}
+
+	]
+
+}

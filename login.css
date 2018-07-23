@@ -1,0 +1,45 @@
+
+.circle{width:100px;
+        height:100px;
+		border-radius:50px;
+		font-size:20px;
+		color:#fff;
+		line-height:100px;
+		text-align:center;
+		background:#000
+		}
+#abc{
+border-radius:20px;
+font-family: agency fb;
+top=200%;
+}
+
+#h1{
+height:11%;
+color:grey;
+width:100%;
+font-size:30px;
+font-family:Agency Fb;
+font-style: italic;
+border-radius:20px;
+opacity: 0.5;
+ filter: alpha(opacity=80);
+}
+
+#user{
+border-radius:20px;
+opacity:0.4;
+filter:alpha(opacity=40);
+font-family: agency fb;
+}
+#pass{
+border-radius:20px;
+opacity:0.4;
+filter:alpha(opacity=40);
+font-family: agency fb;
+}
+#but1{
+border-radius:50%;
+opacity:0.4;
+filter:alpha(opacity=40);
+}

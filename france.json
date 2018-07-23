@@ -1,0 +1,37 @@
+{
+	"header": {
+		"name": "Tourist Destinations in France"
+	},
+
+	"content": [{
+			"title": " Eiffel Tower ",
+			"image": "fr1eiffel-tower.jpg",
+			"file": "fr1eiffel-tower.txt",
+			"ohover": "Eiffel Tower"
+		},
+
+		{
+			"title": "Musee Du Louvre",
+			"image": "fr2louvre.jpg",
+			"file": "fr2louvre.txt",
+			"ohover": "Musee Du Louvre"
+		},
+
+		{
+			"title": "Mont Saint-Michel",
+			"image": "fr3mont-saint.jpg",
+			"file": "fr3mont-saint.txt",
+			"ohover": "Mont Saint-Michel"
+
+		},
+
+		{
+			"title": "Palace of Versailles",
+			"image": "fr4versailles-tourism.jpg",
+			"file": "fr4versailles-tourism.txt",
+			"ohover": "Palace of Versailles"
+		}
+
+	]
+
+}

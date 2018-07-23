@@ -1,0 +1,37 @@
+{
+	"header": {
+		"name": "Tourist Destinations in China"
+	},
+
+	"content": [{
+			"title": "The Great Wall of China",
+			"image": "chinagreatwall.jpg",
+			"file": "wall.txt",
+			"ohover": "The Great Wall of China"
+		},
+
+		{
+			"title": "The Terracotta Army in Xi'an",
+			"image": "china222.jpg",
+			"file": "army.txt",
+			"ohover": "The Terracotta Army in Xi'an"
+		},
+
+		{
+			"title": "The Forbidden City in Beijing",
+			"image": "chinaforbiddencity.jpg",
+			"file": "forbidden.txt",
+			"ohover": "The Forbidden City in Beijing"
+
+		},
+
+		{
+			"title": "The Li River in Guilin — Watery Wonder",
+			"image": "chinariverguilin.jpg",
+			"file": "riverchina.txt",
+			"ohover": "The Li River in Guilin — Watery Wonder"
+		}
+
+	]
+
+}

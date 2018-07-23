@@ -1,0 +1,37 @@
+{
+	"header": {
+		"name": "Tourist Destinations in Singapore"
+	},
+
+	"content": [{
+			"title": "Orchard Road",
+			"image": "sing1.jpg",
+			"file": "sing1.txt",
+			"ohover": "Orchard Road"
+		},
+
+		{
+			"title": "Resorts World Sentosa",
+			"image": "sing2.jpg",
+			"file": "sing2.txt",
+			"ohover": "Resorts World Sentosa"
+		},
+
+		{
+			"title": "Buddha Tooth Relic Temple",
+			"image": "sing3.jpg",
+			"file": "sing3.txt",
+			"ohover": "Buddha Tooth Relic Temple"
+
+		},
+
+		{
+			"title": "Marina Bay Sands",
+			"image": "sing4.jpg",
+			"file": "sing4.txt",
+			"ohover": "Marina Bay Sands"
+		}
+
+	]
+
+}

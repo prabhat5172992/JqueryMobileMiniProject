@@ -1,0 +1,37 @@
+{
+	"header": {
+		"name": "Tourist Destinations in UAE"
+	},
+
+	"content": [{
+			"title": "Burj Khalifa",
+			"image": "UAEburjkhalifa.jpg",
+			"file": "burj.txt",
+			"ohover": "Burj Khalifa"
+		},
+
+		{
+			"title": "Sheikh Zayed Grand Mosque",
+			"image": "uaezayedmosque.jpg",
+			"file": "sheikh.txt",
+			"ohover": "Sheikh Zayed Grand Mosque"
+		},
+
+		{
+			"title": "Sharjah Museum of Islamic Civilisation",
+			"image": "uaesharajahmuseum.jpg",
+			"file": "sharjah.txt",
+			"ohover": "Sharjah Museum of Islamic Civilisation"
+
+		},
+
+		{
+			"title": "Dubai Creek Dhow Ride",
+			"image": "uaecreekdhowride.jpg",
+			"file": "dubaicreek.txt",
+			"ohover": "Dubai Creek Dhow Ride"
+		}
+
+	]
+
+}

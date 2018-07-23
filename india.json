@@ -1,0 +1,81 @@
+{
+	"header": {
+		"name": "Tourist Destinations in India"
+	},
+
+	"content": [{
+			"title": "Agra",
+			"image": "tajmahal.jpg",
+			"file": "agra.txt",
+			"ohover": "Taj Mahal"
+		},
+
+		{
+			"title": "Jaipur / Udaipur",
+			"image": "jaipur.jpg",
+			"file": "jaipur.txt",
+			"ohover": "Udaipur Palace"
+		},
+
+		{
+			"title": "Goa",
+			"image": "goa.jpg",
+			"file": "goa.txt",
+			"ohover": "Goa Beach"
+
+		},
+
+		{
+			"title": "Kashmir",
+			"image": "kashmir.jpg",
+			"file": "kashmir.txt",
+			"ohover": "Jhelum Valley"
+		},
+
+		{
+			"title": "Kanyakumari",
+			"image": "kanyakumari.jpg",
+			"file": "kanyakumari.txt",
+			"ohover": "Kanyakumari"
+			
+		},
+
+		{
+			"title": "Kerala",
+			"image": "kerala.jpg",
+			"file": "kerala.txt",
+			"ohover": "Kerala Backwaters"
+		},
+
+		{
+			"title": "Delhi",
+			"image": "olddelhi.jpg",
+			"file": "delhi.txt",
+			"ohover": "Qutub Minar"
+
+		},
+
+		{
+			"title": "Ajanta Ellora",
+			"image": "AjantaEllora.jpg",
+			"file": "ajanta.txt",
+			"ohover": "Ajanta Ellora Caves"
+		},
+
+		{
+			"title": "Darjeeling",
+			"image": "darjeeling.jpg",
+			"file": "darjeeling.txt",
+			"ohover": "Hill View Darjeeling"
+		},
+
+		{
+			"title": "Mysore",
+			"image": "Mysore.jpg",
+			"file": "mysore.txt",
+			"ohover": "Mysore Palace"
+		}
+
+	]
+
+}
